@@ -5,6 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    base: '/gucaw_app20/', // Ekhane repository-er nam add kora holo
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
