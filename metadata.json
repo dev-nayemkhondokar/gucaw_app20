@@ -1,0 +1,7 @@
+{
+  "name": "Gochao",
+  "description": "Gochao (গুছাও) - জীবনটা গুছিয়ে নিন। অফলাইন-ফার্স্ট নির্ভরযোগ্য অ্যান্ড্রয়েড পার্সোনাল লাইফ ও হিসাব খাতা অ্যাপ।",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
